@@ -70,7 +70,7 @@ const itemData = [
     cols: 2,
   },
   {
-    img: "http://fc01.deviantart.net/fs70/i/2013/164/7/7/punk_rock_girl_3_by_enolla-d68vqij.jpg",
+    img: "https://cdn1.epicgames.com/9eea232af06e4e60bb90f9bc5c2a4638/offer/EGS_SkateCity_Agens_S2-1200x1600-0e27f416b79d0a39f34a95ea0253096e.jpg",
     title: "Hats",
     cols: 2,
   },
